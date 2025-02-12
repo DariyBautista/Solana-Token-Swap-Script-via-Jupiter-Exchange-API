@@ -16,11 +16,17 @@ This script performs automated token swaps on the Solana blockchain using the Ju
 ### Python Version
 Ensure you have **Python 3.8 or later** installed.
 
-### Install Dependencies
-To install the required Python packages, run:
-```sh
-pip install -r requirements.txt
-```
+## Installation
+
+1. Clone this repository:
+   ```sh
+   https://github.com/DariyBautista/Solana-Token-Swap-Script-via-Jupiter-Exchange-API.git
+   ```
+
+2. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
 
 ## Configuration
 Before running the script, create a `config.json` file in the same directory and configure it as follows:
