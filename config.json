@@ -1,0 +1,31 @@
+{
+    "RPC_URL": "https://api.mainnet-beta.solana.com",
+    "DEFAULT_SLIPPAGE_BPS": 50,
+    "TOKENS": {
+        "SOL": "So11111111111111111111111111111111111111112",
+        "USDC": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+        "USDT": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+        "JUP": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN"
+        },
+    "TOKEN_DECIMALS": {
+        "SOL": 9,
+        "USDC": 6,
+        "USDT": 6,
+        "JUP": 6
+    },
+    "WALLETS": [
+        {
+            "private_key": "...",
+            "public_key": "..."
+        },
+        {
+            "private_key": "...",
+            "public_key": "..."
+        }
+        ,
+        {
+            "private_key": "...",
+            "public_key": "..."
+        }
+    ]
+}
